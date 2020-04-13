@@ -21,6 +21,11 @@ Aplicação desenvolvida durante a semana omnistack 11.0 "Be the hero"
 - React.js
 - Axios
 
+### Mobile
+- React Native
+- Axios
+- Expo
+
 ## Como usar
 - git clone https://github.com/Dikizeko-Oliveira/semana-omnistack_11-app-be-the-hero
 
@@ -42,4 +47,14 @@ Aplicação desenvolvida durante a semana omnistack 11.0 "Be the hero"
 - code . ou abra a pasta frontend no editor de texto
 - yarn ou npm install
 - yarn start ou npm start para startar o sistema
+```
+
+
+### Mobile
+
+```
+- cd mobile
+- code . ou abra a pasta frontend no editor de texto
+- yarn ou npm install 
+- expo start, yarn start ou npm start para startar o app ""certifique-se de deixar o emulador aberto antes""
 ```
